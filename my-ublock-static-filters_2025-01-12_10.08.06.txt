@@ -1,0 +1,210 @@
+! 2023-12-25 https://www.bing.com
+www.bing.com##.wpt_bc_container > .cib-serp-main
+www.bing.com##.df_alsoAskCard
+www.bing.com##.b_vtl_deeplinks.b_algo
+www.bing.com##li.b_algo:nth-of-type(2)
+www.bing.com##li.b_algo:nth-of-type(3)
+www.bing.com##li.b_algo:nth-of-type(4)
+www.bing.com##li.b_algo:nth-of-type(5)
+www.bing.com##li.b_mop.b_ans:nth-of-type(6)
+www.bing.com##li.b_algo:nth-of-type(7)
+www.bing.com##li.b_algo:nth-of-type(8)
+www.bing.com##.mmtitle.vsatitle > [href^="/videos/search"]
+www.bing.com##.mattr
+www.bing.com##.b_vidAns.b_mop.b_ans
+www.bing.com##li.b_algo:nth-of-type(10)
+www.bing.com##li.b_algo:nth-of-type(11)
+www.bing.com##li.b_algo:nth-of-type(12)
+www.bing.com##li.b_mop.b_ans:nth-of-type(4)
+www.bing.com##li.b_mop.b_ans:nth-of-type(9)
+www.bing.com##li.b_algo:nth-of-type(1)
+
+! 2024-01-03 https://www.bing.com
+www.bing.com##.imgAns > .b_rich
+www.bing.com##.mmanstitle
+||th.bing.com/th?id=OSK.HEROQFjOb-knaBvvAr8D_12GyGhv3q3HVtX28yjoObE0tUg&w=296&h=176&c=13&rs=2&o=6&dpr=1.5&pid=SANGAM$image
+||th.bing.com/th?id=OSK.HEROQFjOb-knaBvvAr8D_12GyGhv3q3HVtX28yjoObE0tUg&w=296&h=176&c=13&rs=2&o=6&dpr=1.5&pid=SANGAM$image
+www.bing.com###l_ecrd_blk_1_PlainHero > .l_ecrd_a1
+www.bing.com##.l_ecrd_tppad
+www.bing.com###b_syd_supermax
+www.bing.com##li.b_ans:nth-of-type(2)
+www.bing.com##.b_topshad.b_tophb.b_topborder.b_top.b_ans
+
+! 2024-02-07 https://www.bing.com
+www.bing.com##li.b_algo:nth-of-type(6)
+www.bing.com##li.b_algo:nth-of-type(9)
+www.bing.com###l_ecrd_blk_2_MultipleCarousels > .l_ecrd_simgset
+www.bing.com##li.b_algo:nth-of-type(13)
+www.bing.com##li.b_algo:nth-of-type(14)
+www.bing.com##.br-productGrid-js-hovered.br-productGrid-sm.br-productPoleGrid-sr.br-productGrid
+www.bing.com##li.b_mop.b_ans:nth-of-type(11)
+www.bing.com##li.b_mop.b_ans:nth-of-type(10)
+
+! 2024-02-13 https://www.bing.com
+www.bing.com##.b_mopb.b_mop.b_ans
+www.bing.com##.l_ecrd_headergrad.hdgrd.spl_logoheader_txt
+www.bing.com##.b_LinksColorMD.l_ecrd_txt_hover.b_ignbt.l_ecrd_txt_lnk > p > .l_ecrd_txt_pln
+www.bing.com##.spl_logoheader_desc > div > .l_ecrd_txt_hover.b_ignbt.l_ecrd_txt_lnk > p
+||th.bing.com/th?id=OSK.HNYBSXctCXxuO8S5PKFITXGw3B2MX3XPC_yf7PQd_zQILsc&w=64&h=64&c=7&o=6&oif=webp&dpr=1.5&pid=SANGAM$image
+||th.bing.com/th?id=OSK.HNYBSXctCXxuO8S5PKFITXGw3B2MX3XPC_yf7PQd_zQILsc&w=64&h=64&c=7&o=6&oif=webp&dpr=1.5&pid=SANGAM$image
+www.bing.com##li.b_mop.b_ans:nth-of-type(3)
+
+! 2024-03-03 https://www.bing.com
+www.bing.com##.b_pag_lets_chat
+||www.bing.com/rp/em88jYr3ZOv7yX3AqoOU5z8EEnA.png$image
+||www.bing.com/rp/em88jYr3ZOv7yX3AqoOU5z8EEnA.png$image
+
+! 2024-03-24 https://www.bing.com
+www.bing.com###mfa_srch
+
+! 2024-05-12 https://www.bing.com
+www.bing.com##.bordertop
+
+! 2024-06-03 https://www.bing.com
+www.bing.com###id_mobile
+
+! 2024-06-04 https://www.bing.com
+www.bing.com##.rs_chat
+
+! 2024-06-06 https://www.bing.com
+www.bing.com##.b_richnews.b_top.b_ans
+
+! 20-Jun-2024 https://www.csirnetphysics.in
+www.csirnetphysics.in###HTML4 > .widget-content > div
+www.csirnetphysics.in###HTML3 > .widget-content > div
+
+! 21-Jun-2024 https://www.bing.com
+www.bing.com###b_phead_chat
+
+! 26-Jun-2024 https://claude.ai
+claude.ai##.border-border-300.to-bg-500\/5.from-bg-500\/15.sm\:text-sm.sm\:static.text-xs.text-center.pr-3.pl-3\.5.py-2.bg-gradient-to-b.rounded-full.gap-1\.5.items-center.inline-flex.ml-0\.5.top-3\.5.right-2.absolute.border-0\.5.font-tiempos
+
+! 26-Jun-2024 https://chatgpt.com
+chatgpt.com##.px-2.rounded-lg.m-0.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
+
+! 26-Jun-2024 https://claude.ai
+claude.ai##.duration-700.opacity-100.hover\:underline.transition-opacity.underline-offset-2.inline-block
+
+! 26-Jun-2024 https://www.bing.com
+www.bing.com###slideexp1_2A7224c > .b_overlay > .b_slidesContainer > .scrollbar.b_viewport
+www.bing.com##.ent-dtab-curr-content.ent-dtab-style-content
+www.bing.com##.b_richnews.b_mop.b_ans
+
+! 26-Jun-2024 https://chatgpt.com
+chatgpt.com##.md\:px-\[60px\].text-token-text-secondary.text-xs.text-center.py-2.px-2.relative > span
+chatgpt.com##div.\!pr-3.py-3.gap-2\.5.dark\:radix-state-open\:bg-token-main-surface-secondary.radix-state-open\:bg-\[\#f5f5f5\].mx-2.px-3.my-0.rounded-md.dark\:focus-visible\:bg-token-main-surface-secondary.dark\:hover\:bg-token-main-surface-secondary.focus-visible\:bg-\[\#f5f5f5\].hover\:bg-\[\#f5f5f5\].relative.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus-visible\:outline-0.cursor-pointer.text-sm.p-2\.5.m-1\.5.items-center.flex:nth-of-type(1)
+
+! 26-Jun-2024 https://claude.ai
+claude.ai##.border-border-300.bg-bg-300.text-text-300.to-bg-200\/5.from-bg-200.text-xs.text-center.p-1.bg-gradient-to-b.border-b-0.rounded-t-md.border-0\.5.font-tiempos
+
+
+
+! 15 Jun 2024 https://www.reddit.com
+www.reddit.com###advertise-button > .justify-center.items-center.flex > .flex > svg
+www.reddit.com##.m\:block.hidden > .contents.nd\:visible > .hello-world.contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
+
+! 12-Jul-2024 https://chatgpt.com
+chatgpt.com##.md\:p-4.py-2\.5.px-3.bg-opacity-10.text-sm.border.rounded-2xl.gap-3.items-start.w-full.flex.bg-token-main-surface-primary.border-token-border-light.text-token-text-primary
+
+! 19-Jul-2024 https://claude.ai
+claude.ai##.px-3.py-2.mx-2.mb-2.mt-1.rounded-lg.bg-accent-pro-900.border-accent-pro-200.border
+claude.ai##.text-xs > .text-text-300
+
+! 19-Aug-2024 https://chatgpt.com
+chatgpt.com##.\!opacity-100.\!pr-3.py-3.gap-2\.5.dark\:radix-state-open\:bg-token-main-surface-secondary.mx-2.px-3.my-0.rounded-md.dark\:focus-visible\:bg-token-main-surface-secondary.dark\:hover\:bg-token-main-surface-secondary.radix-state-open\:bg-\[\#f5f5f5\].focus-visible\:bg-\[\#f5f5f5\].hover\:bg-\[\#f5f5f5\].relative.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus-visible\:outline-0.cursor-pointer.text-sm.p-2\.5.m-1\.5.items-center.flex
+chatgpt.com##.bg-token-border-light.h-px.my-1.mx-5
+
+! 20-Aug-2024 https://onechat.byjus.com
+onechat.byjus.com##.screen__chat-button_closed__xPY64.screen__chat-button__9Z7rf.button--icon__ZW5xS.button__rX4Lp
+
+! 20-Aug-2024 https://www.bing.com
+www.bing.com##.rowSpan4.colSpan5.wptSld.slide
+
+! 20-Aug-2024 https://www.ambitionbox.com
+www.ambitionbox.com###interview-4609593 > .interview-card__wrapper > .interview-card__overlay
+
+! 20-Aug-2024 https://chatgpt.com
+chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border.rounded-full.justify-center.items-center.w-6.h-6.flex
+
+! 13-Jul-2024 https://www.bing.com
+www.bing.com##.scrollbar.b_viewport
+www.bing.com##.b_slidesContainer
+||www.bing.com/rp/ITg1DgLjG8Sql55Tes2zolxGPnc.png$image
+||www.bing.com/rp/ITg1DgLjG8Sql55Tes2zolxGPnc.png$image
+www.bing.com##.cib-serp-main > .b_ziCont
+
+! 13-Jul-2024 https://claude.ai
+
+! 16-Jul-2024 https://app.mediafire.com
+||www.mediafire.com/widgets/sidebar_promo.php$subdocument
+app.mediafire.com##.neutraloverride.active.rxCustomScrollV.rxCustomScroll > .scrollViewportV.scrollViewport > div > div > div > div
+
+! 03-Aug-2024 https://www.bing.com
+www.bing.com##.mmlist
+www.bing.com##.b_ansb.b_vidAns.b_ans
+www.bing.com##li.b_ans:nth-of-type(1)
+
+! 17-Aug-2024 https://www.bing.com
+www.bing.com##.feedback-binded.sa_fd
+
+! 30 Jun 2024 https://www.reddit.com
+
+! 24 Jun 2024 https://www.perplexity.ai
+www.perplexity.ai##span > .md\:dark\:hover\:bg-offsetDark.md\:hover\:bg-offset.bg-transparent.duration-300.transition.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.cursor-pointer.py-sm.px-md.border-dashed.border.rounded-md.select-none.w-full.mb-sm
+
+! 27 Jun 2024 https://claude.ai
+
+! 28 Jun 2024 https://claude.ai
+
+www.reddit.com##faceplate-tracker:has(a[href="https://reddit.com/avatar"])
+www.reddit.com##faceplate-tracker:has(a[href$="/achievements"])
+www.reddit.com##faceplate-tracker:has(a[href="/contributor-program/profile"])
+
+! 7 Jul 2024 https://www.reddit.com
+www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(4)
+www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2) > .contents > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+www.reddit.com##hr.border-0.bg-neutral-border-weak.w-100.h-px:nth-of-type(1)
+www.reddit.com##hr.border-0.bg-neutral-border-weak.w-100.h-px:nth-of-type(2)
+
+! 18 Jul 2024 https://outlook.live.com
+outlook.live.com##.LBktY > .GssDD > .z0duZ
+outlook.live.com##.LBktY > .GssDD
+
+! 6 Aug 2024 https://github.com
+github.com##ul.list-style-none > .d-flex.mb-2
+github.com##.mt-3.text-small > [href="/sponsors"]
+github.com##div.BorderGrid-row:nth-of-type(3)
+
+! 12 Aug 2024 https://onedrive.live.com
+onedrive.live.com##.root-175.modalOverlay_37d87ed5.ms-Overlay--dark.ms-Overlay
+||res-1.cdn.office.net/files/sp-client/odsp-media-83da66c2/images/premium/mountain-background-large.svg$image
+
+! 28-Aug-2024 https://www.bing.com
+www.bing.com##.b_footer
+
+! 29-Aug-2024 https://chatgpt.com
+||s.gravatar.com/avatar/f3568b45f6b42677c2e7dc6801b3b0d9?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fat.png$image
+
+! 05-Sept-2024 https://chatgpt.com
+chatgpt.com##div.py-3.gap-2\.5.dark\:radix-state-open\:bg-token-main-surface-secondary.mx-2.px-3.my-0.rounded-md.dark\:focus-visible\:bg-token-main-surface-secondary.dark\:hover\:bg-token-main-surface-secondary.radix-state-open\:bg-\[\#f5f5f5\].focus-visible\:bg-\[\#f5f5f5\].hover\:bg-\[\#f5f5f5\].relative.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus-visible\:outline-0.cursor-pointer.text-sm.p-2\.5.m-1\.5.items-center.flex:nth-of-type(5)
+
+! 13-Sept-2024 https://chatgpt.com
+chatgpt.com##.min-h-4 > div
+
+! 12-Oct-2024 https://copilot.microsoft.com
+copilot.microsoft.com###b_sydWelcomeTemplate_ > .b_wlcmCont.b_ziTileCont
+copilot.microsoft.com###copilot_app_cta
+
+! 08-Dec-2024 https://www.technologytothepoint.com
+www.technologytothepoint.com##.centered-top
+
+! 16-Dec-2024 https://replit.com
+replit.com##.css-13ycm6d.useView_isHorizontal__Q1YOp.useView_view__C2mnv > .css-9u872h
+replit.com##.css-9u872h.loaded
+replit.com##.css-1go9hds.useView_view__C2mnv
+replit.com##.Layout_root__zbmnW.useView_view__C2mnv > div.useView_view__C2mnv > .useView_view__C2mnv > div.useView_view__C2mnv > .css-1mul5f2.useView_view__C2mnv
+replit.com##.css-1mmdcvc
+replit.com##.css-1qt5ket.useView_view__C2mnv
+replit.com##.css-1l43yl3.useView_view__C2mnv
+replit.com##.css-1ne8tp5.useView_view__C2mnv
+replit.com##.css-1f7ul0t.loaded
