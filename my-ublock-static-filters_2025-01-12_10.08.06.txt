@@ -98,7 +98,6 @@ chatgpt.com##div.\!pr-3.py-3.gap-2\.5.dark\:radix-state-open\:bg-token-main-surf
 claude.ai##.border-border-300.bg-bg-300.text-text-300.to-bg-200\/5.from-bg-200.text-xs.text-center.p-1.bg-gradient-to-b.border-b-0.rounded-t-md.border-0\.5.font-tiempos
 
 
-
 ! 15 Jun 2024 https://www.reddit.com
 www.reddit.com###advertise-button > .justify-center.items-center.flex > .flex > svg
 www.reddit.com##.m\:block.hidden > .contents.nd\:visible > .hello-world.contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
@@ -120,9 +119,6 @@ onechat.byjus.com##.screen__chat-button_closed__xPY64.screen__chat-button__9Z7rf
 ! 20-Aug-2024 https://www.bing.com
 www.bing.com##.rowSpan4.colSpan5.wptSld.slide
 
-! 20-Aug-2024 https://www.ambitionbox.com
-www.ambitionbox.com###interview-4609593 > .interview-card__wrapper > .interview-card__overlay
-
 ! 20-Aug-2024 https://chatgpt.com
 chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border.rounded-full.justify-center.items-center.w-6.h-6.flex
 
@@ -132,8 +128,6 @@ www.bing.com##.b_slidesContainer
 ||www.bing.com/rp/ITg1DgLjG8Sql55Tes2zolxGPnc.png$image
 ||www.bing.com/rp/ITg1DgLjG8Sql55Tes2zolxGPnc.png$image
 www.bing.com##.cib-serp-main > .b_ziCont
-
-! 13-Jul-2024 https://claude.ai
 
 ! 16-Jul-2024 https://app.mediafire.com
 ||www.mediafire.com/widgets/sidebar_promo.php$subdocument
@@ -146,8 +140,6 @@ www.bing.com##li.b_ans:nth-of-type(1)
 
 ! 17-Aug-2024 https://www.bing.com
 www.bing.com##.feedback-binded.sa_fd
-
-! 30 Jun 2024 https://www.reddit.com
 
 ! 24 Jun 2024 https://www.perplexity.ai
 www.perplexity.ai##span > .md\:dark\:hover\:bg-offsetDark.md\:hover\:bg-offset.bg-transparent.duration-300.transition.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.cursor-pointer.py-sm.px-md.border-dashed.border.rounded-md.select-none.w-full.mb-sm
@@ -191,10 +183,6 @@ chatgpt.com##div.py-3.gap-2\.5.dark\:radix-state-open\:bg-token-main-surface-sec
 ! 13-Sept-2024 https://chatgpt.com
 chatgpt.com##.min-h-4 > div
 
-! 12-Oct-2024 https://copilot.microsoft.com
-copilot.microsoft.com###b_sydWelcomeTemplate_ > .b_wlcmCont.b_ziTileCont
-copilot.microsoft.com###copilot_app_cta
-
 ! 08-Dec-2024 https://www.technologytothepoint.com
 www.technologytothepoint.com##.centered-top
 
@@ -208,3 +196,7 @@ replit.com##.css-1qt5ket.useView_view__C2mnv
 replit.com##.css-1l43yl3.useView_view__C2mnv
 replit.com##.css-1ne8tp5.useView_view__C2mnv
 replit.com##.css-1f7ul0t.loaded
+
+! 26 Jan 2025 https://www.bing.com
+www.bing.com##.ansTtlUndrlnWrapper.rqnASCWrapper.rqnafbUlWrapper.df_alaskcarousel.rqnaContainerwithfeedback
+www.bing.com##li.b_algo:nth-of-type(15)
