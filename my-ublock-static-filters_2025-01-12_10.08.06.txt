@@ -200,3 +200,6 @@ replit.com##.css-1f7ul0t.loaded
 ! 26 Jan 2025 https://www.bing.com
 www.bing.com##.ansTtlUndrlnWrapper.rqnASCWrapper.rqnafbUlWrapper.df_alaskcarousel.rqnaContainerwithfeedback
 www.bing.com##li.b_algo:nth-of-type(15)
+
+! 16 Feb 2025 https://onedrive.live.com
+onedrive.live.com##.bannerGleam_860752dd.storageUpsellBanner_860752dd
