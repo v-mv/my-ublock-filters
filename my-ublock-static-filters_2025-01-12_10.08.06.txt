@@ -143,14 +143,82 @@ www.bing.com##.feedback-binded.sa_fd
 
 ! 24 Jun 2024 https://www.perplexity.ai
 www.perplexity.ai##span > .md\:dark\:hover\:bg-offsetDark.md\:hover\:bg-offset.bg-transparent.duration-300.transition.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.cursor-pointer.py-sm.px-md.border-dashed.border.rounded-md.select-none.w-full.mb-sm
+www.reddit.com##faceplate-tracker:has(a[href="https://reddit.com/avatar"])
+www.reddit.com##faceplate-tracker:has(a[href$="/achievements"])
+www.reddit.com##faceplate-tracker:has(a[href="/contributor-program/profile"])
+
+! 30 Jun 2024 https://www.reddit.com
+www.reddit.com##.m\:block.hidden > .contents.nd\:visible > .hello-world.contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
+
+! 15 Jun 2024 https://www.reddit.com
+www.reddit.com###advertise-button > .justify-center.items-center.flex > .flex > svg
+
 
 ! 27 Jun 2024 https://claude.ai
+claude.ai##.px-3.py-2.mx-2.mb-2.mt-1.rounded-lg.bg-accent-pro-900.border-accent-pro-200.border
+claude.ai##.duration-700.opacity-100.hover\:underline.transition-opacity.underline-offset-2.inline-block
+claude.ai##.border-border-300.bg-bg-300.text-text-300.to-bg-200\/5.from-bg-200.text-xs.text-center.p-1.bg-gradient-to-b.border-b-0.rounded-t-md.border-0\.5.font-tiempos
 
 ! 28 Jun 2024 https://claude.ai
+claude.ai##.border-border-300.to-bg-500\/5.from-bg-500\/15.sm\:text-sm.sm\:static.text-xs.text-center.pr-3.pl-3\.5.py-2.bg-gradient-to-b.rounded-full.gap-1\.5.items-center.inline-flex.ml-0\.5.top-3\.5.right-2.absolute.border-0\.5.font-tiempos
 
 www.reddit.com##faceplate-tracker:has(a[href="https://reddit.com/avatar"])
 www.reddit.com##faceplate-tracker:has(a[href$="/achievements"])
 www.reddit.com##faceplate-tracker:has(a[href="/contributor-program/profile"])
+
+! 7 Jul 2024 https://www.reddit.com
+www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(4)
+www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2) > .contents > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+www.reddit.com##hr.border-0.bg-neutral-border-weak.w-100.h-px:nth-of-type(1)
+www.reddit.com##hr.border-0.bg-neutral-border-weak.w-100.h-px:nth-of-type(2)
+
+! 18 Jul 2024 https://outlook.live.com
+outlook.live.com##.LBktY > .GssDD > .z0duZ
+outlook.live.com##.LBktY > .GssDD
+
+! 6 Aug 2024 https://github.com
+github.com##ul.list-style-none > .d-flex.mb-2
+github.com##.mt-3.text-small > [href="/sponsors"]
+github.com##div.BorderGrid-row:nth-of-type(3)
+
+! 12 Aug 2024 https://onedrive.live.com
+onedrive.live.com##.root-175.modalOverlay_37d87ed5.ms-Overlay--dark.ms-Overlay
+||res-1.cdn.office.net/files/sp-client/odsp-media-83da66c2/images/premium/mountain-background-large.svg$image
+
+! 27 Aug 2024 https://onedrive.live.com
+onedrive.live.com##.storageUpsellBanner_d434954c
+onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond > .o365cs-base > .RGSb\/1c4ex9CM0as0oaLQA\=\=
+onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
+
+! 30 Aug 2024 https://drive.proton.me
+drive.proton.me##.justify-center.items-center.gap-2.flex.w-full.my-2.text-center.inline-block.button-outline-norm.button-medium.button
+drive.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+
+! 30 Aug 2024 https://mail.proton.me
+mail.proton.me##.p-0-5.lg\:text-center.text-left.relative.bg-promotion.shrink-0.flex-nowrap.flex
+
+! 25 Sept 2024 https://onedrive.live.com
+onedrive.live.com##.bannerGleam_860752dd.storageUpsellBanner_860752dd
+onedrive.live.com###GiveFeedbackButton > .o365cs-base
+onedrive.live.com###GiveFeedbackButton_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
+
+! 1 Oct 2024 https://mail.proton.me
+mail.proton.me##.max-w-full.p-7.text-center.m-auto
+
+! 5 Nov 2024 https://www.linkedin.com
+www.linkedin.com##.display-flex.mt2.artdeco-card.windows-upsell-banner
+
+! Feb 5, 2025 https://mail.proton.me
+mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+
+! Mar 9, 2025 https://mail.proton.me
+mail.proton.me##.relative.mb-4.mx-4.shadow-norm.border-weak.border.rounded-lg.flex-none.flex.group-hover-opacity-container.tip-box
+
+! Mar 14, 2025 https://www.perplexity.ai
+www.perplexity.ai##.bg-transparent.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.pb-sm.px-md
+www.perplexity.ai##.aspect-square.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-full.text-center.justify-center.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:dark\:text-superDuper.hover\:text-superDuper.dark\:text-light-text.dark\:bg-textMainDark.text-textMainDark.bg-textMain
+
+
 
 ! 7 Jul 2024 https://www.reddit.com
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(4)
