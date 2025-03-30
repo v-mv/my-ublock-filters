@@ -211,15 +211,6 @@ www.linkedin.com##.display-flex.mt2.artdeco-card.windows-upsell-banner
 ! Feb 5, 2025 https://mail.proton.me
 mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
 
-! Mar 9, 2025 https://mail.proton.me
-mail.proton.me##.relative.mb-4.mx-4.shadow-norm.border-weak.border.rounded-lg.flex-none.flex.group-hover-opacity-container.tip-box
-
-! Mar 14, 2025 https://www.perplexity.ai
-www.perplexity.ai##.bg-transparent.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.pb-sm.px-md
-www.perplexity.ai##.aspect-square.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-full.text-center.justify-center.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:dark\:text-superDuper.hover\:text-superDuper.dark\:text-light-text.dark\:bg-textMainDark.text-textMainDark.bg-textMain
-
-
-
 ! 7 Jul 2024 https://www.reddit.com
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(4)
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2) > .contents > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
@@ -267,7 +258,26 @@ replit.com##.css-1f7ul0t.loaded
 
 ! 26 Jan 2025 https://www.bing.com
 www.bing.com##.ansTtlUndrlnWrapper.rqnASCWrapper.rqnafbUlWrapper.df_alaskcarousel.rqnaContainerwithfeedback
-www.bing.com##li.b_algo:nth-of-type(15)
 
 ! 16 Feb 2025 https://onedrive.live.com
 onedrive.live.com##.bannerGleam_860752dd.storageUpsellBanner_860752dd
+
+! Mar 9, 2025 https://mail.proton.me
+mail.proton.me##.relative.mb-4.mx-4.shadow-norm.border-weak.border.rounded-lg.flex-none.flex.group-hover-opacity-container.tip-box
+
+! Mar 14, 2025 https://www.perplexity.ai
+www.perplexity.ai##.bg-transparent.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.pb-sm.px-md
+www.perplexity.ai##.aspect-square.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-full.text-center.justify-center.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:dark\:text-superDuper.hover\:text-superDuper.dark\:text-light-text.dark\:bg-textMainDark.text-textMainDark.bg-textMain
+www.bing.com##li.b_algo:nth-of-type(15)
+
+! 2 Mar 2025 https://www.bing.com
+www.bing.com##.survey-opt-in-wrapper
+
+! 29 Mar 2025 https://open.spotify.com
+open.spotify.com##.e-9640-button--leading.e-9640-button--small.e-9640-overflow-wrap-anywhere.encore-text-body-small-bold.hgbBnc.Button-sc-1dqy6lx-0
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.e-9640-button--small.encore-inverted-light-set.e-9640-button-primary__inner.e-9640-overflow-wrap-anywhere.e-9640-baseline
+
+! 30 Mar 2025 https://open.spotify.com
+open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(3)
+
+
