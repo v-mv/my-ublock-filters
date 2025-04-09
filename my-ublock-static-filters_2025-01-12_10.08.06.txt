@@ -280,4 +280,21 @@ open.spotify.com##.Upqw01TOXETOmR5Td7Dj.e-9640-button--small.encore-inverted-lig
 ! 30 Mar 2025 https://open.spotify.com
 open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(3)
 
+! 30 Mar 2025 https://open.spotify.com
+open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(3)
+
+! 4 Apr 2025 https://open.spotify.com
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.e-9800-button--small.encore-inverted-light-set.e-9800-button-primary__inner.e-9800-overflow-wrap-anywhere.e-9800-baseline
+open.spotify.com##.e-9800-button--leading.e-9800-button--small.e-9800-overflow-wrap-anywhere.encore-text-body-small-bold.dzIYeQ.Button-sc-1dqy6lx-0
+
+! 5 Apr 2025 https://chatgpt.com
+chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary > div
+
+! 7 Apr 2025 https://www.spotify.com
+www.spotify.com##.isSxmX.sc-4f80802a-1
+www.spotify.com##.e-9800-button--small.encore-text-body-small-bold.kzVIGK.Button-sc-y0gtbx-0
+www.spotify.com##.exJaUw.sc-a88f65e7-1
+www.spotify.com##.svelte-y2fjiu.mh-premium-title > .svelte-y2fjiu
+www.spotify.com##.svelte-y2fjiu.mh-header-primary
+
 
