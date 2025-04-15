@@ -294,7 +294,29 @@ chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-cente
 www.spotify.com##.isSxmX.sc-4f80802a-1
 www.spotify.com##.e-9800-button--small.encore-text-body-small-bold.kzVIGK.Button-sc-y0gtbx-0
 www.spotify.com##.exJaUw.sc-a88f65e7-1
+
+! Apr 8, 2025 https://mail.proton.me
+mail.proton.me##.link-focus.link.px-1.py-px.text-sm.text-ellipsis
+mail.proton.me##.gap-2.justify-center.flex
+
+! Apr 11, 2025 https://www.perplexity.ai
+www.perplexity.ai##.bg-transparent.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.border-t.p-sm
+www.perplexity.ai##.items-stretch.h-14
+
+! Apr 15, 2025 https://www.perplexity.ai
+www.perplexity.ai##.w-full.absolute
+www.perplexity.ai##.bg-transparent.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.md\:pb-0.md\:px-0.md\:justify-center.items-center.flex-wrap.flex.pb-2xl.px-sm.gap-y-sm.gap-x-md
+www.perplexity.ai##.ml-2.relative
 www.spotify.com##.svelte-y2fjiu.mh-premium-title > .svelte-y2fjiu
 www.spotify.com##.svelte-y2fjiu.mh-header-primary
+
+! Apr 15, 2025 https://open.spotify.com
+open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(5)
+
+! Apr 15, 2025 https://www.spotify.com
+www.spotify.com##.fvyFya.sc-4f80802a-1
+www.spotify.com##.e-9812-button--small.encore-text-body-small-bold.iFgJnX.Button-sc-y0gtbx-0
+
+
 
 
