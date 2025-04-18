@@ -284,7 +284,6 @@ open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(3)
 open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(3)
 
 ! 4 Apr 2025 https://open.spotify.com
-open.spotify.com##.Upqw01TOXETOmR5Td7Dj.e-9800-button--small.encore-inverted-light-set.e-9800-button-primary__inner.e-9800-overflow-wrap-anywhere.e-9800-baseline
 open.spotify.com##.e-9800-button--leading.e-9800-button--small.e-9800-overflow-wrap-anywhere.encore-text-body-small-bold.dzIYeQ.Button-sc-1dqy6lx-0
 
 ! 5 Apr 2025 https://chatgpt.com
@@ -315,7 +314,10 @@ open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(5)
 
 ! Apr 15, 2025 https://www.spotify.com
 open.spotify.com##.fvyFya.sc-4f80802a-1
-open.spotify.com##.e-9812-button--small.encore-text-body-small-bold.iFgJnX.Button-sc-y0gtbx-0
+! 18 Apr 2025 https://open.spotify.com
+open.spotify.com##.e-9812-button--leading.e-9812-button--small.e-9812-overflow-wrap-anywhere.encore-text-body-small-bold.dzIYeQ.Button-sc-1dqy6lx-0
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.e-9812-button--small.encore-inverted-light-set.e-9812-button-primary__inner.e-9812-overflow-wrap-anywhere.e-9812-baseline
+
 
 
 
