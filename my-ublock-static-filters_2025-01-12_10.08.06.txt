@@ -318,7 +318,7 @@ open.spotify.com##.fvyFya.sc-4f80802a-1
 open.spotify.com##.e-9812-button--leading.e-9812-button--small.e-9812-overflow-wrap-anywhere.encore-text-body-small-bold.dzIYeQ.Button-sc-1dqy6lx-0
 open.spotify.com##.Upqw01TOXETOmR5Td7Dj.e-9812-button--small.encore-inverted-light-set.e-9812-button-primary__inner.e-9812-overflow-wrap-anywhere.e-9812-baseline
 
-
-
+! Apr 25, 2025 https://claude.ai
+claude.ai##.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-lg.h-8.px-2\.5.text-center.text-xs.sm\:static.sm\:text-sm.bg-bg-300.text-text-500.select-none
 
 
