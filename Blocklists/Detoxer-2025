@@ -84,3 +84,8 @@ open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(3)
 open.spotify.com##div.k6GFKyOKVR5Ruofj3aTQ:nth-of-type(4)
 open.spotify.com##.xK6HEWejcSHKyWfhNiJc
 open.spotify.com##div.k6GFKyOKVR5Ruofj3aTQ:nth-of-type(7)
+
+! 7 May 2025 https://chatgpt.com
+chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary > div
+! 8 May 2025 https://chatgpt.com
+chatgpt.com##.px-2.rounded-lg.m-0.screen-arch\:min-h-\[47px\].screen-arch\:py-1\.5.screen-arch\:px-2.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
