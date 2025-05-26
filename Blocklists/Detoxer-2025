@@ -1,5 +1,5 @@
 Creation Date - 25/04/2025
-Last Update - 12/05/2025
+Last Update - 26/05/2025
 
 Strictly made for Personal Use
 
@@ -36,7 +36,6 @@ claude.ai##.text-xs > .text-text-300
 claude.ai##.font-normal.text-text-300.text-xs
 
 ! 25 Apr 2025 https://chatgpt.com
-chatgpt.com##.overflow-hidden.gap-0.items-center.flex > .whitespace-nowrap.overflow-hidden.text-token-text-secondary.font-semibold.radix-state-open\:bg-token-main-surface-secondary.hover\:bg-token-main-surface-secondary.text-lg.px-3.py-1\.5.rounded-lg.gap-1.items-center.cursor-pointer.flex.group
 ||s.gravatar.com/avatar/f3568b45f6b42677c2e7dc6801b3b0d9?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fat.png$image
 
 ! Apr 25, 2025 https://www.reddit.com
@@ -61,14 +60,6 @@ www.linkedin.com##.global-nav__primary-link--single-line
 www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell.link-without-visited-state.eETATgYTipaVsmrBChiBJJvFsdPhNpulhPZUVLHLo
 www.linkedin.com##.t-black--light.link-without-hover-state.t-bold.t-14.global-nav__secondary-premium-anchor.link-without-visited-state.eETATgYTipaVsmrBChiBJJvFsdPhNpulhPZUVLHLo
 
-! Apr 25, 2025 https://www.perplexity.ai
-www.perplexity.ai##.items-stretch.h-14
-www.perplexity.ai##.grid-cols-6.grid.gap-sm
-www.perplexity.ai##.gap-2.items-center.flex > span
-www.perplexity.ai##.md\:block.hidden.pb-md
-www.perplexity.ai##.flex-col.flex.gap-md.mb-lg
-www.perplexity.ai##.aspect-\[9\/8\].h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-lg.text-center.justify-center.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:opacity-80.text-white.dark\:text-backgroundDark.dark\:bg-superDark.bg-super
-
 ! Apr 25, 2025 https://open.spotify.com
 ||adxcel.com^
 ||akamaized.net/audio/$media,redirect-rule=noop-1s.mp4:10,from=open.spotify.com
@@ -85,11 +76,19 @@ open.spotify.com##div.k6GFKyOKVR5Ruofj3aTQ:nth-of-type(4)
 open.spotify.com##.xK6HEWejcSHKyWfhNiJc
 open.spotify.com##div.k6GFKyOKVR5Ruofj3aTQ:nth-of-type(7)
 
-! 7 May 2025 https://chatgpt.com
-chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary > div
-! 8 May 2025 https://chatgpt.com
-chatgpt.com##.px-2.rounded-lg.m-0.screen-arch\:min-h-\[47px\].screen-arch\:py-1\.5.screen-arch\:px-2.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
-
-! 12 May 2025 https://mail.proton.me
-mail.proton.me##.button.button-medium.button-outline-weak.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient
+! 26 May 2025 https://mail.proton.me
 mail.proton.me##.tip-box.group-hover-opacity-container.flex.flex-none.rounded-lg.border.border-weak.shadow-norm.mx-4.mb-4.relative
+mail.proton.me##.button.button-medium.button-outline-norm.max-w-full.flex.items-center.button-promotion--anniversary-2025.text-uppercase.text-semibold
+
+! 26 May 2025 https://chatgpt.com
+chatgpt.com##.bg-token-bg-elevated-secondary.sticky.bottom-0.z-30.px-\[3px\].py-1\.5.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).empty\:hidden
+chatgpt.com###radix-«re»
+
+! 26 May 2025 https://reddit.com
+www.reddit.com##.text-neutral-content-weak.flex.gap-\[var\(--rem4\)\].flex-wrap.items-center.gap-xs
+
+! May 26, 2025 https://www.perplexity.ai
+www.perplexity.ai##.gap-xs.group.inline-flex.appearance-none.flex-col.items-center
+www.perplexity.ai##.pb-sm.gap-md.mt-auto.flex.flex-col.items-center.justify-center > div.gap-xs.flex.flex-col.items-center:nth-of-type(1)
+www.perplexity.ai##div.group\/item.md\:h-full.gap-md:nth-of-type(6) > .relative.select-none.rounded-lg.transition-all.duration-300.py-sm.px-md.-ml-sm.md\:px-sm.md\:ml-0.md\:h-full.md\:py-1\.5.hover\:bg-offset.dark\:hover\:bg-offsetDark.cursor-pointer
+www.perplexity.ai##.gap-x-md.gap-y-sm.px-sm.pb-2xl.flex.flex-wrap.items-center.md\:justify-center.md\:px-0.md\:pb-0.border-borderMain\/50.ring-borderMain\/50.divide-borderMain\/50.dark\:divide-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:border-borderMainDark\/50.bg-transparent
