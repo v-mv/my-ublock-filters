@@ -1,5 +1,5 @@
 Creation Date - 25/04/2025
-Last Update - 26/05/2025
+Last Update - 13/06/2025
 
 Strictly made for Personal Use
 
@@ -45,7 +45,7 @@ www.reddit.com##faceplate-tracker:has(a[href="/contributor-program/profile"])
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
 www.reddit.com##hr.border-0.bg-neutral-border-weak.w-100.h-px:nth-of-type(2)
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(4)
-www.reddit.com##.m\:block.hidden > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
+
 
 ! Apr 25, 2025 https://onedrive.live.com
 onedrive.live.com##.od-QuotaBannerWrapper-placeholder.od-QuotaBannerWrapper
@@ -78,7 +78,6 @@ open.spotify.com##div.k6GFKyOKVR5Ruofj3aTQ:nth-of-type(7)
 
 ! 26 May 2025 https://mail.proton.me
 mail.proton.me##.tip-box.group-hover-opacity-container.flex.flex-none.rounded-lg.border.border-weak.shadow-norm.mx-4.mb-4.relative
-mail.proton.me##.button.button-medium.button-outline-norm.max-w-full.flex.items-center.button-promotion--anniversary-2025.text-uppercase.text-semibold
 
 ! 26 May 2025 https://chatgpt.com
 chatgpt.com##.bg-token-bg-elevated-secondary.sticky.bottom-0.z-30.px-\[3px\].py-1\.5.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).empty\:hidden
@@ -92,3 +91,16 @@ www.perplexity.ai##.gap-xs.group.inline-flex.appearance-none.flex-col.items-cent
 www.perplexity.ai##.pb-sm.gap-md.mt-auto.flex.flex-col.items-center.justify-center > div.gap-xs.flex.flex-col.items-center:nth-of-type(1)
 www.perplexity.ai##div.group\/item.md\:h-full.gap-md:nth-of-type(6) > .relative.select-none.rounded-lg.transition-all.duration-300.py-sm.px-md.-ml-sm.md\:px-sm.md\:ml-0.md\:h-full.md\:py-1\.5.hover\:bg-offset.dark\:hover\:bg-offsetDark.cursor-pointer
 www.perplexity.ai##.gap-x-md.gap-y-sm.px-sm.pb-2xl.flex.flex-wrap.items-center.md\:justify-center.md\:px-0.md\:pb-0.border-borderMain\/50.ring-borderMain\/50.divide-borderMain\/50.dark\:divide-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:border-borderMainDark\/50.bg-transparent
+
+! Jun 13, 2025 https://chatgpt.com
+chatgpt.com##.rtl\:translate-x-1\/2.ltr\:-translate-x-1\/2.start-1\/2.absolute > .dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].font-medium.text-sm.pe-3\.5.ps-3.py-1\.5.bg-\[\#F1F1FB\].rounded-full.gap-1\.5.items-center.flex
+chatgpt.com##.focus-visible\:outline-none.whitespace-nowrap.font-normal.focus-visible\:bg-token-surface-hover.hover\:bg-token-surface-hover.text-lg.px-2\.5.touch\:min-h-10.min-h-9.rounded-lg.gap-1.items-center.justify-center.cursor-pointer.flex.group
+chatgpt.com##div.group.__menu-item.pe-8.gap-1\.5:nth-of-type(2)
+
+! Jun 13, 2025 https://www.reddit.com
+www.reddit.com##advertise-button > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
+www.reddit.com##faceplate-tracker.contents:nth-of-type(4) > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+
+! Jun 13, 2025 https://mail.proton.me
+mail.proton.me##.topnav-listItem--noCollapse.topnav-listItem
+mail.proton.me##.empty\:hidden.text-center.gap-1.flex-column.flex
