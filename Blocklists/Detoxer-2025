@@ -1,5 +1,5 @@
 Creation Date - 25/04/2025
-Last Update - 13/06/2025
+Last Update - 16/06/2025
 
 Strictly made for Personal Use
 
@@ -27,7 +27,6 @@ www.udemy.com##.billboard-module--container--7BfnE
 www.bing.com###b_content
 www.bing.com##.b_footer
 www.bing.com##.feedback-binded.sa_fd
-||www.bing.com/rp/em88jYr3ZOv7yX3AqoOU5z8EEnA.png$image
 www.bing.com###id_mobile
 
 ! 25 Apr 2025 https://claude.ai
@@ -104,3 +103,10 @@ www.reddit.com##faceplate-tracker.contents:nth-of-type(4) > .mt-0.list-none.rela
 ! Jun 13, 2025 https://mail.proton.me
 mail.proton.me##.topnav-listItem--noCollapse.topnav-listItem
 mail.proton.me##.empty\:hidden.text-center.gap-1.flex-column.flex
+
+! 16 Jun 2025 https://www.bing.com
+www.bing.com###b_phead_chat
+
+! 16 Jun 2025 https://chatgpt.com
+chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary
+
