@@ -120,3 +120,26 @@ claude.ai###radix-\:re\: > div.py-1\.5.pr-1.group.\[\&\[data-highlighted\]\]\:te
 
 ! 4 Jul 2025 https://www.youtube.com
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
+
+! 28 Jul 2025 https://lumo.proton.me
+lumo.proton.me##.lumo-upgrade-trigger.upsell-addon-button.shrink-0.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+lumo.proton.me##.lumo-upgrade-trigger.text-left.w-full.navigation-link
+lumo.proton.me##.rounded-lg.p-4.gap-6.flex-nowrap.flex-column.flex.settings-modal-panel
+lumo.proton.me##div.p-2.items-start.gap-4.flex-nowrap.flex-row.flex:nth-of-type(2)
+lumo.proton.me##.is-active.flex-nowrap.items-center.gap-2.flex-row.flex.button-ghost-weak.button-medium.w-full.button
+lumo.proton.me##.empty\:hidden.gap-2.justify-center.flex
+
+! 28 Jul 2025 https://chatgpt.com
+chatgpt.com##div.gap-1\.5.__menu-item.group:nth-of-type(2)
+
+! 28 Jul 2025 https://www.reddit.com
+
+www.reddit.com##faceplate-tracker.contents:nth-of-type(5) > .mt-0.list-none.relative
+www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100 > .mt-0.list-none.relative
+
+! 28 Jul 2025 https://onedrive.live.com
+onedrive.live.com##.bannerGleam_4aa99544.storageUpsellBanner_4aa99544
+onedrive.live.com##.od-quotaBanner-normalQuotaFreeTrial.od-QBannerUpsell-main
+
+! 28 Jul 2025 https://outlook.live.com
+outlook.live.com###owaMeetNowButton > div
