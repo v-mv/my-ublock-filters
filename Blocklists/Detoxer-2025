@@ -1,5 +1,5 @@
 Creation Date - 25/04/2025
-Last Update - 04/07/2025
+Last Update - 30/07/2025
 
 Strictly made for Personal Use
 
@@ -133,7 +133,6 @@ lumo.proton.me##.empty\:hidden.gap-2.justify-center.flex
 chatgpt.com##div.gap-1\.5.__menu-item.group:nth-of-type(2)
 
 ! 28 Jul 2025 https://www.reddit.com
-
 www.reddit.com##faceplate-tracker.contents:nth-of-type(5) > .mt-0.list-none.relative
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100 > .mt-0.list-none.relative
 
@@ -143,3 +142,7 @@ onedrive.live.com##.od-quotaBanner-normalQuotaFreeTrial.od-QBannerUpsell-main
 
 ! 28 Jul 2025 https://outlook.live.com
 outlook.live.com###owaMeetNowButton > div
+
+! 30 Jul 2025 https://www.google.com
+www.google.com##.plR5qb
+google.com##.olrp5b
