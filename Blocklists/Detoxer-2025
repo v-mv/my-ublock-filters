@@ -1,5 +1,5 @@
 Creation Date - 25/04/2025
-Last Update - 05/08/2025
+Last Update - 05/10/2025
 
 Strictly made for Personal Use
 
@@ -156,3 +156,10 @@ www.google.com##.UQC6fc
 ! Aug 5, 2025 https://www.youtube.com
 www.youtube.com##.ytp-fullscreen-grid-hover-overlay
 www.youtube.com##.ytp-fullscreen-grid-stills-container
+
+! Oct 5, 2025 https://www.reddit.com
+www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(1)
+
+! Oct 5, 2025 https://chatgpt.com
+chatgpt.com##.motion-safe\:delay-\[175ms\].opacity-100.motion-safe\:ease-out.motion-safe\:duration-200.motion-safe\:transition-opacity.gap-1\.5.hoverable.__menu-item.group
