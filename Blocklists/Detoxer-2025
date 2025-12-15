@@ -18,8 +18,6 @@ drive.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.
 www.linkedin.com##.display-flex.mt2.artdeco-card.windows-upsell-banner
 
 ! 25 Apr 2025 https://www.bing.com
-www.bing.com###b_content
-www.bing.com##.b_footer
 www.bing.com##.feedback-binded.sa_fd
 www.bing.com###id_mobile
 
@@ -153,3 +151,14 @@ claude.ai##a.\[\&\[data-highlighted\]\]\:text-text-000.\[\&\[data-highlighted\]\
 onedrive.live.com##.od-quotaBanner-normalQuotaFreeTrial.od-QBannerUpsell-main
 onedrive.live.com##.bannerGleam_7ff103ac.storageUpsellBanner_7ff103ac
 onedrive.live.com##.premiumBtnContainer_3c708c89
+
+! 15 Dec 2025 https://www.bing.com
+www.bing.com##.copans_container
+www.bing.com###b-scopeListItem-copilotsearch
+www.bing.com###b-scopeListItem-conv
+www.bing.com##.b_top.b_ans
+www.bing.com##.b_results_eml
+www.bing.com##.hasdl.b_caption
+www.bing.com##.b_wikiGbModCards
+www.bing.com##li.b_ans:nth-of-type(2)
+www.bing.com##.feedback-binded.sa_fd
