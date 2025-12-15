@@ -162,3 +162,7 @@ www.bing.com##.hasdl.b_caption
 www.bing.com##.b_wikiGbModCards
 www.bing.com##li.b_ans:nth-of-type(2)
 www.bing.com##.feedback-binded.sa_fd
+www.bing.com##.b_rcgbt_bgabcd.b_algoBorder.b_algo
+
+! 15 Dec 2025 https://www.youtube.com
+www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer
