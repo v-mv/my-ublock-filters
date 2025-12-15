@@ -1,3 +1,5 @@
+! Title: Detoxer-2025 Filter List
+
 Creation Date - 25/04/2025
 Last Update - 15/12/2025
 
@@ -15,9 +17,6 @@ drive.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.
 ! 5 Nov 2024 https://www.linkedin.com
 www.linkedin.com##.display-flex.mt2.artdeco-card.windows-upsell-banner
 
-! Apr 16,2025 https://onedrive.live.com
-onedrive.live.com##.bannerGleam_fbef8b80.storageUpsellBanner_fbef8b80
-
 ! 25 Apr 2025 https://www.bing.com
 www.bing.com###b_content
 www.bing.com##.b_footer
@@ -31,12 +30,6 @@ www.reddit.com##faceplate-tracker:has(a[href="/contributor-program/profile"])
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
 www.reddit.com##hr.border-0.bg-neutral-border-weak.w-100.h-px:nth-of-type(2)
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(4)
-
-
-! Apr 25, 2025 https://onedrive.live.com
-onedrive.live.com##.od-QuotaBannerWrapper-placeholder.od-QuotaBannerWrapper
-onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
-onedrive.live.com###GiveFeedbackButton_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
 
 ! Apr 25, 2025 https://drive.proton.me
 drive.proton.me##.empty\:hidden.gap-2.justify-center.flex
@@ -111,13 +104,6 @@ lumo.proton.me##.empty\:hidden.gap-2.justify-center.flex
 www.reddit.com##faceplate-tracker.contents:nth-of-type(5) > .mt-0.list-none.relative
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100 > .mt-0.list-none.relative
 
-! 28 Jul 2025 https://onedrive.live.com
-onedrive.live.com##.bannerGleam_4aa99544.storageUpsellBanner_4aa99544
-onedrive.live.com##.od-quotaBanner-normalQuotaFreeTrial.od-QBannerUpsell-main
-
-! 28 Jul 2025 https://outlook.live.com
-outlook.live.com###owaMeetNowButton > div
-
 ! 30 Jul 2025 https://www.google.com
 www.google.com##.plR5qb
 google.com##.olrp5b
@@ -156,6 +142,14 @@ chatgpt.com##.lg\:block.hidden
 ! 14 Dec 2025 https://claude.ai
 claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 > .transition.hover\:text-text-300
 
+! 15 Dec 2025 https://chatgpt.com
+chatgpt.com##.motion-safe\:delay-\[175ms\].opacity-100.motion-safe\:ease-out.motion-safe\:duration-200.motion-safe\:transition-opacity.gap-1\.5.hoverable.__menu-item.group
+
 ! 15 Dec 2025 https://claude.ai
 claude.ai##.text-start.font-normal.text-text-500.text-xs.truncate.w-full
 claude.ai##a.\[\&\[data-highlighted\]\]\:text-text-000.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-lg.py-1\.5.px-2.min-h-8.font-base:nth-of-type(2)
+
+! 15 Dec 2025 https://onedrive.live.com
+onedrive.live.com##.od-quotaBanner-normalQuotaFreeTrial.od-QBannerUpsell-main
+onedrive.live.com##.bannerGleam_7ff103ac.storageUpsellBanner_7ff103ac
+onedrive.live.com##.premiumBtnContainer_3c708c89
