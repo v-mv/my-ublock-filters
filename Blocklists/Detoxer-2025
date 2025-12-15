@@ -1,5 +1,5 @@
 Creation Date - 25/04/2025
-Last Update - 17/10/2025
+Last Update - 15/12/2025
 
 Strictly made for Personal Use
 
@@ -79,22 +79,8 @@ mail.proton.me##.empty\:hidden.text-center.gap-1.flex-column.flex
 ! 16 Jun 2025 https://www.bing.com
 www.bing.com###b_phead_chat
 
-! Jun 19, 2025 https://chatgpt.com
-chatgpt.com##.empty\:hidden.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).py-1\.5.z-30.bottom-0.sticky.bg-token-bg-elevated-secondary
-chatgpt.com##.z-20.flex-1.block
-chatgpt.com##.focus-visible\:outline-none.whitespace-nowrap.font-normal.focus-visible\:bg-token-surface-hover.hover\:bg-token-surface-hover.text-lg.px-2\.5.touch\:min-h-10.min-h-9.rounded-lg.gap-1.items-center.justify-center.cursor-pointer.flex.group
-chatgpt.com##.rtl\:translate-x-1\/2.ltr\:-translate-x-1\/2.start-1\/2.absolute
-chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary > div
-
 ! Jun 19, 2025 https://www.perplexity.ai
 www.perplexity.ai##span:nth-of-type(3) > .focus\:outline-none.relative.group\/segmented-control.segmented-control > div > .justify-center.items-center.min-w-9.h-8.flex.z-10.relative
-
-! Jun 20, 2025 https://chatgpt.com
-chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
-
-! Jun 20, 2025 https://claude.ai
-claude.ai##div.py-1\.5.pr-1.group.\[\&\[data-highlighted\]\]\:text-text-300.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-md.px-2.py-1:nth-of-type(1)
-claude.ai##.py-1\.5.pl-2.\[\&\[data-highlighted\]\]\:text-text-300.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded.px-2.py-1
 
 ! Jul 3, 2025 https://www.youtube.com
 www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
@@ -110,13 +96,6 @@ www.perplexity.ai##.duration-300.transition-outExpo.data-\[state\=delayed-open\]
 www.perplexity.ai##.row-span-1.col-span-6.relative
 www.perplexity.ai##.ml-2 > span > div
 
-! 4 Jul 2025 https://claude.ai
-claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.sm\:static.font-small.text-center.px-2\.5.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5.top-3\.5.right-2.absolute
-claude.ai##.grow.overflow-hidden.flex-col.flex > .font-small
-claude.ai##a.\[\&\[data-highlighted\]\]\:text-text-300.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-md.px-2.py-1:nth-of-type(1)
-claude.ai##.text-start.font-normal.text-text-300.text-xs.truncate.w-full
-claude.ai###radix-\:re\: > div.py-1\.5.pr-1.group.\[\&\[data-highlighted\]\]\:text-text-300.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-md.px-2.py-1:nth-of-type(1)
-
 ! 4 Jul 2025 https://www.youtube.com
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
 
@@ -127,9 +106,6 @@ lumo.proton.me##.rounded-lg.p-4.gap-6.flex-nowrap.flex-column.flex.settings-moda
 lumo.proton.me##div.p-2.items-start.gap-4.flex-nowrap.flex-row.flex:nth-of-type(2)
 lumo.proton.me##.is-active.flex-nowrap.items-center.gap-2.flex-row.flex.button-ghost-weak.button-medium.w-full.button
 lumo.proton.me##.empty\:hidden.gap-2.justify-center.flex
-
-! 28 Jul 2025 https://chatgpt.com
-chatgpt.com##div.gap-1\.5.__menu-item.group:nth-of-type(2)
 
 ! 28 Jul 2025 https://www.reddit.com
 www.reddit.com##faceplate-tracker.contents:nth-of-type(5) > .mt-0.list-none.relative
@@ -160,8 +136,26 @@ www.youtube.com##.ytp-fullscreen-grid-stills-container
 www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
 www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(1)
 
-! Oct 5, 2025 https://chatgpt.com
-chatgpt.com##.motion-safe\:delay-\[175ms\].opacity-100.motion-safe\:ease-out.motion-safe\:duration-200.motion-safe\:transition-opacity.gap-1\.5.hoverable.__menu-item.group
-
 ! Oct 17, 2025 https://www.perplexity.ai
 www.perplexity.ai##.md\:block.hidden.fixed.m-sm.right-md.bottom-md
+
+! 6 Dec 2025 https://claude.ai
+claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.px-2\.5.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
+
+! 11 Dec 2025 https://www.reddit.com
+www.reddit.com##.items-center.gap-md.flex.p-md.my-md.rounded-2.bg-neutral-background-weak
+
+! 13 Dec 2025 https://chatgpt.com
+chatgpt.com##.hover\:cursor-pointer.cursor-default.me-0.my-0.btn-small.btn.btn-secondary
+chatgpt.com##.group-data-sheet-item\:mb-0.group-data-sheet-item\:mt-0\.5.text-xs.mb-0\.5.leading-dense.not-group-data-disabled\:text-token-text-tertiary > .truncate
+chatgpt.com##div.gap-1\.5.__menu-item.group:nth-of-type(3)
+chatgpt.com##.focus-visible\:outline-none.whitespace-nowrap.font-normal.focus-visible\:bg-token-surface-hover.hover\:bg-token-surface-hover.text-lg.px-2\.5.touch\:min-h-10.min-h-9.rounded-lg.gap-1.items-center.justify-center.cursor-pointer.flex.group
+chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.relative.text-token-text-secondary.-mt-4 > .pointer-events-auto
+chatgpt.com##.lg\:block.hidden
+
+! 14 Dec 2025 https://claude.ai
+claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 > .transition.hover\:text-text-300
+
+! 15 Dec 2025 https://claude.ai
+claude.ai##.text-start.font-normal.text-text-500.text-xs.truncate.w-full
+claude.ai##a.\[\&\[data-highlighted\]\]\:text-text-000.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-lg.py-1\.5.px-2.min-h-8.font-base:nth-of-type(2)
