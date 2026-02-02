@@ -166,7 +166,7 @@ www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer
 
 ! Feb 2, 2026 https://chatgpt.com
 chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex > .pointer-events-auto
-chatgpt.com##.lg\:hidden.block
+chatgpt.com##.lg\:hidden.block > .dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].bg-\[\#F1F1FB\].font-medium.text-sm.rounded-full.gap-1.items-center.inline-flex > .pe-3.py-2.focus\:outline-none.text-current.ps-2\.5.bg-transparent.rounded-full.gap-1.items-center.flex.relative.button-glimmer-cta
 
 ! Jan 15, 2026 https://claude.ai
 claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 > span
