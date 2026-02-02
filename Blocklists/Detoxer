@@ -1,7 +1,7 @@
-! Title: Detoxer-2025 Filter List
+! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 15/12/2025
+Last Update - 02/02/2026
 
 Strictly made for Personal Use
 
@@ -140,9 +140,6 @@ chatgpt.com##.lg\:block.hidden
 ! 14 Dec 2025 https://claude.ai
 claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 > .transition.hover\:text-text-300
 
-! 15 Dec 2025 https://chatgpt.com
-chatgpt.com##.motion-safe\:delay-\[175ms\].opacity-100.motion-safe\:ease-out.motion-safe\:duration-200.motion-safe\:transition-opacity.gap-1\.5.hoverable.__menu-item.group
-
 ! 15 Dec 2025 https://claude.ai
 claude.ai##.text-start.font-normal.text-text-500.text-xs.truncate.w-full
 claude.ai##a.\[\&\[data-highlighted\]\]\:text-text-000.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-lg.py-1\.5.px-2.min-h-8.font-base:nth-of-type(2)
@@ -166,3 +163,15 @@ www.bing.com##.b_rcgbt_bgabcd.b_algoBorder.b_algo
 
 ! 15 Dec 2025 https://www.youtube.com
 www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer
+
+! Feb 2, 2026 https://chatgpt.com
+chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex > .pointer-events-auto
+
+! Jan 15, 2026 https://claude.ai
+claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 > span
+
+! 14 Nov 2025 https://gemini.google.com
+gemini.google.com##.capabilities-disclaimer
+
+! Feb 2, 2026 https://www.bing.com
+www.bing.com##.b_bop_cs_sb_cnt
