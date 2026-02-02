@@ -166,7 +166,7 @@ www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer
 
 ! Feb 2, 2026 https://chatgpt.com
 chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex > .pointer-events-auto
-chatgpt.com##.lg\:hidden.block (For mobile Devices)
+chatgpt.com##.lg\:hidden.block
 
 ! Jan 15, 2026 https://claude.ai
 claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 > span
