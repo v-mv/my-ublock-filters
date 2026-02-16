@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 02/02/2026
+Last Update - 16/02/2026
 
 Strictly made for Personal Use
 
@@ -176,3 +176,7 @@ gemini.google.com##.capabilities-disclaimer
 
 ! Feb 2, 2026 https://www.bing.com
 www.bing.com##.b_bop_cs_sb_cnt
+
+! 16 Feb 2026 https://www.reddit.com
+www.reddit.com##advertise-button > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium
+
