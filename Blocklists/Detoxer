@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 16/02/2026
+Last Update - 18/02/2026
 
 Strictly made for Personal Use
 
@@ -90,14 +90,6 @@ www.perplexity.ai##.ml-2 > span > div
 ! 4 Jul 2025 https://www.youtube.com
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
 
-! 28 Jul 2025 https://lumo.proton.me
-lumo.proton.me##.lumo-upgrade-trigger.upsell-addon-button.shrink-0.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
-lumo.proton.me##.lumo-upgrade-trigger.text-left.w-full.navigation-link
-lumo.proton.me##.rounded-lg.p-4.gap-6.flex-nowrap.flex-column.flex.settings-modal-panel
-lumo.proton.me##div.p-2.items-start.gap-4.flex-nowrap.flex-row.flex:nth-of-type(2)
-lumo.proton.me##.is-active.flex-nowrap.items-center.gap-2.flex-row.flex.button-ghost-weak.button-medium.w-full.button
-lumo.proton.me##.empty\:hidden.gap-2.justify-center.flex
-
 ! 28 Jul 2025 https://www.reddit.com
 www.reddit.com##faceplate-tracker.contents:nth-of-type(5) > .mt-0.list-none.relative
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100 > .mt-0.list-none.relative
@@ -174,9 +166,19 @@ claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 > span
 ! 14 Nov 2025 https://gemini.google.com
 gemini.google.com##.capabilities-disclaimer
 
+! Feb 6, 2026 https://lumo.proton.me
+lumo.proton.me##.lumo-plus-button-shadow.p-4.rounded-lg.lumo-plus-button.text-left.w-full.navigation-link
+lumo.proton.me##.mx-auto.mb-0.mr-2.ml-2.mt-4.rounded-sm.chat-history-upsell
+lumo.proton.me##.lumo-upgrade-trigger.mb-0\.5.px-3.w-full.navigation-item
+lumo.proton.me##.lumo-upgrade-trigger.upsell-addon-button.shrink-0.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.button-outline-weak.button-medium.button
+lumo.proton.me##.md\:block.hidden.my-2.text-xs.color-weak.relative.text-center
+lumo.proton.me##.toggle-container
+lumo.proton.me##.projects-create-button
+
 ! Feb 2, 2026 https://www.bing.com
 www.bing.com##.b_bop_cs_sb_cnt
 
 ! 16 Feb 2026 https://www.reddit.com
 www.reddit.com##advertise-button > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium
+
 
