@@ -181,4 +181,9 @@ www.bing.com##.b_bop_cs_sb_cnt
 ! 16 Feb 2026 https://www.reddit.com
 www.reddit.com##advertise-button > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium
 
+! Feb 18, 2026 https://www.csirnetphysics.in
+www.csirnetphysics.in##.popup-overlay
+
+! Feb 19, 2026 https://chatgpt.com
+chatgpt.com##.mt-2.m-4
 
