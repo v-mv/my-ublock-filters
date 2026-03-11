@@ -187,4 +187,6 @@ chatgpt.com##.mt-2.m-4
 ! Mar 11, 2026 https://claude.ai
 claude.ai##.overflow-visible.flex-shrink-0.gap-2.items-center.flex
 claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
+claude.ai##.min-h-0.overflow-hidden.align-center.flex-grow.flex-col.flex > .px-2
+
 
