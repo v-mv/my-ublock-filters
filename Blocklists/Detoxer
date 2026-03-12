@@ -189,4 +189,22 @@ claude.ai##.overflow-visible.flex-shrink-0.gap-2.items-center.flex
 claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
 claude.ai##.min-h-0.overflow-hidden.align-center.flex-grow.flex-col.flex > .px-2
 
+! Mar 12, 2026 https://mail.google.com/
+mail.google.com##.Zmxtcf.e5IPTd
+
+! Mar 12, 2026 https://docs.google.com/
+docs.google.com###docs-sidekick-button-container
+
+! Mar 12, 2026 https://drive.google.com/
+drive.google.com###WWNEkf
+drive.google.com##.SMHH7
+drive.google.com##.h-v[role="menuitem"]:has(.Nsw7Y)
+drive.google.com##.h-v[role="menuitem"]:has(.Nsw7Y) + .h-Yo[role="separator"]
+drive.google.com##.oaTPh
+drive.google.com##.De8rPe
+drive.google.com###viewer-sidekick-button
+google.com##[data-rp-placement-id="gemkick-pep-icon-callout-id"]
+
+
+
 
