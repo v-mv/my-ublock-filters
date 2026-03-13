@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 12/03/2026
+Last Update - 13/03/2026
 
 Strictly made for Personal Use
 
@@ -204,6 +204,15 @@ drive.google.com##.oaTPh
 drive.google.com##.De8rPe
 drive.google.com###viewer-sidekick-button
 google.com##[data-rp-placement-id="gemkick-pep-icon-callout-id"]
+
+! Mar 13, 2026 https://www.reddit.com
+www.reddit.com##.lg\:px-0.sm\:px-md.xs\:px-0.mx-auto.min-h-\[calc\(100vh-var\(--shreddit-header-height\)-var\(--page-y-padding\)\)\].bg-neutral-background > search-telemetry-tracker:nth-of-type(1) > div
+www.reddit.com##.label-container > .trailing-divider
+www.reddit.com##.label-container > .trailing-content-container.has-trailing-content
+www.reddit.com##.relative.xs\:rounded-4.hover\:bg-neutral-background-hover.search-answers-preview-section
+! "Related Answers" (Mobile only)
+www.reddit.com###answers-suggested-queries-m3
+www.reddit.com###answers-nav-button
 
 
 
