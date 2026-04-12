@@ -214,6 +214,54 @@ www.reddit.com##.relative.xs\:rounded-4.hover\:bg-neutral-background-hover.searc
 www.reddit.com###answers-suggested-queries-m3
 www.reddit.com###answers-nav-button
 
-
-
-
+! Apr 12, 2026 https://www.youtube.com 
+! YT - Homepage and Subscriptions (Grid View) - Hide the Shorts section
+youtube.com##[is-shorts]
+! YT - Menu - Hide the Shorts button
+www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
+! YT - Search - Hide Shorts
+www.youtube.com##ytd-search ytd-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
+! YT - Search, Channels, Subscriptions (List View) and Sidebar/Below Player Recommendations - Hide the Shorts sections
+www.youtube.com##ytd-reel-shelf-renderer
+! YT - Channels - Hide the Shorts tab
+www.youtube.com##[tab-title="Shorts"]
+! YT - Subscriptions - Hide Shorts - Grid View
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
+! YT - Subscriptions - Hide Shorts - List View
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
+! YT - Subscriptions - New Layout - Hide Shorts
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
+! YT - Sidebar - Hide Shorts
+www.youtube.com###related :is(ytd-compact-video-renderer,yt-lockup-view-model):has([overlay-style="SHORTS"],[href^="/shorts/"])
+! YT - History - Hide Shorts
+www.youtube.com##ytd-item-section-renderer[page-subtype]:has(>#contents>[is-history]>#dismissible>ytd-thumbnail>#thumbnail[href^="/shorts/"])
+! YT Mobile - Hide the Shorts Menu button
+m.youtube.com##ytm-pivot-bar-item-renderer:has(>.pivot-shorts)
+! YT Mobile - Hide the Shorts sections
+m.youtube.com##:is(ytm-rich-section-renderer,grid-shelf-view-model):has([href^="/shorts/"])
+! YT Mobile - Search - Hide Shorts
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has([href^="/shorts/"])
+! YT Mobile - Channels - Hide the Shorts button
+m.youtube.com##[tab-title="Shorts"]
+! YT Mobile - History - Hide Shorts
+m.youtube.com##[tab-identifier="FEhistory"] ytm-compact-video-renderer:has(>div>a[href^="/shorts/"])
+! YT Home - Hide Mixes
+youtube.com##ytd-rich-item-renderer:has([href*="start_radio=1"])
+! YT Sidebar - Hide Mixes
+youtube.com##ytd-compact-radio-renderer, :is(#related yt-lockup-view-model,ytd-compact-video-renderer):has([href*="&start_radio=1"])
+! YT Search- Hide Mixes
+youtube.com##ytd-radio-renderer, :is(ytd-search yt-lockup-view-model,ytd-video-renderer[is-search]):has([href*="&start_radio=1"][aria-haspopup])
+! YT Player - Hide Mixes in Video End Cards
+youtube.com##.ytp-videowall-still[data-is-mix="true"]
+! YT Sidebar - Hide "YouTube" (Music) playlists
+youtube.com##ytd-compact-playlist-renderer:has([title^="YouTube"])
+! YT - Paid Promotion Overlay
+youtube.com##.ytp-paid-content-overlay, .ytmPaidContentOverlayHost
+! YT Search - keep only videos (no shorts)
+youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-renderer,yt-showing-results-for-renderer,[icon-name="promo-full-height:EMPTY_SEARCH"]),ytd-video-renderer:has([aria-label="Shorts"])),ytd-secondary-search-container-renderer
+youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer, ytd-popup-container > tp-yt-paper-dialog > yt-mealbar-promo-renderer:has-text(/Claim Offer|Join now|Not Now|No thanks|YouTube TV|live TV|Live TV|movies|sports|Try it free|unlimited DVR|watch NFL/)
+youtube.com##+js(json-edit, ..adaptiveFormats.*[?.audioTrack.isAutoDubbed])
+youtube.com##+js(json-edit-xhr-response, ..adaptiveFormats.*[?.audioTrack.isAutoDubbed], propsToMatch, /youtubei)
+youtube.com##+js(json-edit-fetch-response, ..adaptiveFormats.*[?.audioTrack.isAutoDubbed], propsToMatch, /youtubei)
+youtube.com##+js(rpnt, script, (function serverContract(), if("object"===typeof window.ytInitialPlayerResponse){window.ytInitialPlayerResponse=JSON.parse(JSON.stringify(window.ytInitialPlayerResponse));}(function serverContract(), sedCount, 1)
+youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
