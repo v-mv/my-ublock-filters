@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 12/04/2026
+Last Update - 08/05/2026
 
 Strictly made for Personal Use
 
@@ -265,3 +265,18 @@ youtube.com##+js(json-edit-xhr-response, ..adaptiveFormats.*[?.audioTrack.isAuto
 youtube.com##+js(json-edit-fetch-response, ..adaptiveFormats.*[?.audioTrack.isAutoDubbed], propsToMatch, /youtubei)
 youtube.com##+js(rpnt, script, (function serverContract(), if("object"===typeof window.ytInitialPlayerResponse){window.ytInitialPlayerResponse=JSON.parse(JSON.stringify(window.ytInitialPlayerResponse));}(function serverContract(), sedCount, 1)
 youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
+
+! 8 May 2026 https://workdrive.zoho.in
+workdrive.zoho.in##.zwd-marginless.zwd-circular.zwd-borderless.zwd-fluid.zwd-basic.zwd-small.zwd-medium.zwd-blue.zwd-button.zwd-ui
+
+! 8 May 2026 https://claude.ai
+claude.ai##div.group.relative:nth-of-type(4)
+
+! 5 May 2026 https://app.box.com
+app.box.com##.OnlineSalesCTA.header-online-sales-cta
+app.box.com##div.bp_dropdown_menu_module_ellipsis--87dd4-EUA.bp_dropdown_menu_module_item--87dd4-EUA:nth-of-type(3)
+
+! 8 May 2026 https://mail.proton.me
+mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
+
+
