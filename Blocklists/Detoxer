@@ -287,4 +287,8 @@ chatgpt.com##.pointer-events-auto.text-token-text-tertiary.text-caption-regular 
 ! "Ask" button below video
 m.youtube.com,www.youtube.com##.you-chat-entrypoint-button 
 
-
+! 19 Jun 2026 https://mail.google.com
+! Header - Google Workspace Studio icon
+mail.google.com##.lRwCV
+! Header - Ask Gemini icon
+mail.google.com##.Zmxtcf
