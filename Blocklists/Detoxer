@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 08/05/2026
+Last Update - 19/06/2026
 
 Strictly made for Personal Use
 
@@ -278,5 +278,11 @@ app.box.com##div.bp_dropdown_menu_module_ellipsis--87dd4-EUA.bp_dropdown_menu_mo
 
 ! 8 May 2026 https://mail.proton.me
 mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
+
+! 19 Jun 2026 https://chatgpt.com
+chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute > .w-full.h-full.relative
+chatgpt.com##.pointer-events-auto.text-token-text-tertiary.text-caption-regular > div
+
+
 
 
