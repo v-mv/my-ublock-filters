@@ -283,6 +283,8 @@ mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowr
 chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute > .w-full.h-full.relative
 chatgpt.com##.pointer-events-auto.text-token-text-tertiary.text-caption-regular > div
 
-
+! 19 Jun 2026 https://www.youtube.com 
+! "Ask" button below video
+m.youtube.com,www.youtube.com##.you-chat-entrypoint-button 
 
 
