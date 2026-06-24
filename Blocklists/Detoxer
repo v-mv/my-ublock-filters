@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 19/06/2026
+Last Update - 24/06/2026
 
 Strictly made for Personal Use
 
@@ -292,3 +292,10 @@ m.youtube.com,www.youtube.com##.you-chat-entrypoint-button
 mail.google.com##.lRwCV
 ! Header - Ask Gemini icon
 mail.google.com##.Zmxtcf
+
+! 24 Jun 2026 https://app.notion.com
+app.notion.com##.notion-sidebar > div:nth-of-type(4) > div > div:nth-of-type(4)
+app.notion.com##.x14rh7hd.x19zyb68.x17rw0jw.x17z2i9w.x2lah0s.x1lliihq.chatBubble
+app.notion.com###settings-tab-plans
+app.notion.com##.notion-ai-button.x1ypdohk.x1b7c0jy.x87ps6o
+app.notion.com###\:ri5\: > .xf159sx.xmzvs34.xfex06f.x3pnbk8.xe0p6wg.x87ps6o.xif65rj.xh8yej3.xkds0cx.x6s0dn4.x78zum5
