@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 30/08/2026
+Last Update - 01/09/2026
 
 Strictly made for Personal Use
 
@@ -9,11 +9,6 @@ Strictly made for Personal Use
 github.com##ul.list-style-none > .d-flex.mb-2
 github.com##.mt-3.text-small > [href="/sponsors"]
 github.com##div.BorderGrid-row:nth-of-type(3)
-
-! Apr 25, 2025 https://www.linkedin.com
-www.linkedin.com##.global-nav__primary-link--single-line
-www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell.link-without-visited-state.eETATgYTipaVsmrBChiBJJvFsdPhNpulhPZUVLHLo
-www.linkedin.com##.t-black--light.link-without-hover-state.t-bold.t-14.global-nav__secondary-premium-anchor.link-without-visited-state.eETATgYTipaVsmrBChiBJJvFsdPhNpulhPZUVLHLo
 
 ! 14 Nov 2025 https://gemini.google.com
 gemini.google.com##.capabilities-disclaimer
@@ -97,6 +92,10 @@ youtube.com##+js(json-edit-xhr-response, ..adaptiveFormats.*[?.audioTrack.isAuto
 youtube.com##+js(json-edit-fetch-response, ..adaptiveFormats.*[?.audioTrack.isAutoDubbed], propsToMatch, /youtubei)
 youtube.com##+js(rpnt, script, (function serverContract(), if("object"===typeof window.ytInitialPlayerResponse){window.ytInitialPlayerResponse=JSON.parse(JSON.stringify(window.ytInitialPlayerResponse));}(function serverContract(), sedCount, 1)
 youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
+! YT Search - Remove Mic Button
+youtube.com###voice-search-button
+! YT Search - Remove Create Button
+youtube.com###buttons > ytd-button-renderer.ytd-masthead
 
 ! 8 May 2026 https://workdrive.zoho.in
 workdrive.zoho.in##.zwd-marginless.zwd-circular.zwd-borderless.zwd-fluid.zwd-basic.zwd-small.zwd-medium.zwd-blue.zwd-button.zwd-ui
@@ -180,3 +179,18 @@ www.google.*##.Kevs9.SLPe5b:has([data-attnms])
 www.google.*##.YNk70c.EjQTId:has(+ div [data-attnms]) #oFNiHe:empty
 ! * Blank space when in middle of search results (Ex: https://www.google.com/search?q=stevo%27s+genai+blocklist)
 www.google.*##.ULSxyf:has(> .MjjYud > .Wm5I1e.SePcAf[data-tma="80"] [data-attnms])
+
+! TwitterX - Auto-select "Following" Feed (Requires enabling: "Allow custom filters requiring trust")
+x.com##+js(trusted-click-element, [aria-label="Home timeline"]:has(>div:last-child>section>[aria-label="Timeline: Your Home Timeline"])>div:first-child [role="tablist"]>div:nth-of-type(2)>[aria-selected="false"])
+! TwitterX - Hide the first tab button (checks for buttons without links - potential breakages?)
+x.com##[aria-label="Home timeline"]>div:first-child [role="tablist"]>div:first-child:not(:has([href]))
+
+! 1 Sept 2026 https://www.remnote.com
+remnote.com##[data-test="Menu Label: Upgrade to Pro With Free Months"]
+! 1 Sept 2026 https://www.busuu.com
+busuu.com##button.sc-gsDKAQ:has-text(80% off Premium)
+busuu.com##[data-testid="test-collapsed-banner"]
+busuu.com##[data-testid="test-full-banner-body"]
+! 1 Sept 2026 https://www.duolingo.com
+duolingo.com##._16rRh._2cnFr._1T_BQ
+
