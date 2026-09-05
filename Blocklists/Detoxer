@@ -96,6 +96,14 @@ youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
 youtube.com###voice-search-button
 ! YT Search - Remove Create Button
 youtube.com###buttons > ytd-button-renderer.ytd-masthead
+! YT Home - Remove Explore/Featured section
+youtube.com##.ytdChipsShelfWithVideoShelfRendererHost
+youtube.com##ytd-rich-section-renderer:has(#title:is-text("YouTube featured"))
+youtube.com##ytd-rich-shelf-renderer:has(#rich-shelf-header)
+youtube.com##.ytdChipsShelfWithVideoShelfRendererHeader
+! YT Playback - Remove End Screen Cards
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-fullscreen-grid-stills-container
 
 ! 8 May 2026 https://workdrive.zoho.in
 workdrive.zoho.in##.zwd-marginless.zwd-circular.zwd-borderless.zwd-fluid.zwd-basic.zwd-small.zwd-medium.zwd-blue.zwd-button.zwd-ui
