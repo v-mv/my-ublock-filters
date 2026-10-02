@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 28/09/2026
+Last Update - 02/10/2026
 
 Strictly made for Personal Use
 
@@ -104,6 +104,8 @@ youtube.com##.ytdChipsShelfWithVideoShelfRendererHeader
 ! YT Playback - Remove End Screen Cards
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-fullscreen-grid-stills-container
+youtube.com##yt-related-chip-cloud-renderer
+youtube.com##ytd-button-renderer:has(button[aria-label="Join this channel"])
 
 ! 8 May 2026 https://workdrive.zoho.in
 workdrive.zoho.in##.zwd-marginless.zwd-circular.zwd-borderless.zwd-fluid.zwd-basic.zwd-small.zwd-medium.zwd-blue.zwd-button.zwd-ui
@@ -131,6 +133,7 @@ chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
 chatgpt.com##.max-w-full.w-fit.mx-auto.pointer-events-auto.text-token-text-tertiary.text-caption-regular > div
 chatgpt.com##div.last-of-type\:border-none.py-2.border-b.items-center.min-h-15.flex.border-token-border-light:nth-of-type(2)
 chatgpt.com##.tracking-\[-0\.08px\]\!.font-\[590\]\!.leading-\[18px\]\!.text-\[13px\]\!.px-3\!.h-7\!.dark\:active\:bg-blue-100\/20.dark\:hover\:bg-blue-100\/20.dark\:text-blue-200.dark\:bg-blue-100\/20.active\:bg-blue-400\/\[\.09\].hover\:bg-blue-400\/\[\.09\].text-blue-400.bg-blue-400\/\[\.09\].border-transparent.disabled\:opacity-50.disabled\:cursor-not-allowed.font-medium.text-sm.px-4.rounded-full.gap-1.justify-center.items-center.h-8.inline-flex
+chatgpt.com##button[aria-label="Claim offer"]
 
 ! 30 Aug 2026 https://claude.ai
 claude.ai##.pointer-events-none.justify-center.items-center.h-12.w-full.flex
@@ -151,6 +154,9 @@ manus.im##.text-\[var\(--text-tertiary\)\].text-xs.text-center.w-full.mt-2
 manus.im##.px-\[8px\].hover\:bg-\[rgba\(0\,129\,242\,0\.12\)\].bg-\[rgba\(0\,129\,242\,0\.08\)\].min-w-\[32px\].gap-\[6px\].h-\[32px\].rounded-\[10px\].leading-\[18px\].text-\[13px\].hover\:opacity-100.text-\[var\(--text-primary\)\].active\:opacity-80.transition-colors.font-medium.whitespace-nowrap.justify-center.items-center.inline-flex
 manus.im##.px-\[6px\].min-w-0.hover\:bg-\[rgba\(0\,129\,242\,0\.12\)\].bg-\[rgba\(0\,129\,242\,0\.08\)\].gap-\[6px\].h-\[32px\].rounded-\[10px\].leading-\[18px\].text-\[13px\].hover\:opacity-100.text-\[var\(--text-primary\)\].active\:opacity-80.transition-colors.font-medium.whitespace-nowrap.justify-center.items-center.inline-flex
 manus.im##.pe-2.ps-3.py-2.gap-2.justify-between.items-center.w-full.flex
+manus.im##.justify-center.items-center.flex-1.min-h-\[160px\].flex
+manus.im##.whitespace-nowrap.py-1.px-3.bg-transparent.border-\[var\(--border-main\)\].border.rounded-\[8px\].overflow-hidden.gap-1\.5.justify-center.items-center.max-w-\[min\(360px\,35vw\)\].min-w-0.h-8.inline-flex.relative.desktop-no-drag
+manus.im##div:nth-of-type(1) > .rounded-\[8px\].size-\[28px\].hover\:bg-\[var\(--fill-tsp-white-light\)\].cursor-pointer.justify-center.items-center.flex
 
 ! 30 Aug 2026 https://drive.proton.me
 drive.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
