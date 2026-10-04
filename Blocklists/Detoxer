@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 03/10/2026
+Last Update - 04/10/2026
 
 Strictly made for Personal Use
 
@@ -147,6 +147,7 @@ claude.ai##.underline-offset-2.hover\:underline
 mail.proton.me##.relative.mb-4.mx-4.shadow-norm.border-weak.border.rounded-lg.flex-none.flex.group-hover-opacity-container.tip-box
 mail.proton.me##.topnav-listItem--noCollapse.topnav-listItem
 mail.proton.me##.empty\:hidden.gap-2.justify-center.flex
+mail.proton.me##button.button-promotion
 
 ! 30 Aug 2026 https://manus.im
 manus.im##.whitespace-nowrap.py-1.px-4.bg-\[var\(--fill-tsp-white-light\)\].rounded-full.gap-1\.5.justify-center.items-center.h-9.inline-flex.-translate-y-full.-translate-x-1\/2.left-1\/2.-top-\[50px\].absolute
@@ -198,6 +199,7 @@ remnote.com##[data-test="Menu Label: Upgrade to Pro With Free Months"]
 busuu.com##button.sc-gsDKAQ:has-text(80% off Premium)
 busuu.com##[data-testid="test-collapsed-banner"]
 busuu.com##[data-testid="test-full-banner-body"]
+
 ! 1 Sept 2026 https://www.duolingo.com
 duolingo.com##._16rRh._2cnFr._1T_BQ
 
