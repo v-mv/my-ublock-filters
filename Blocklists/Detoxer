@@ -209,3 +209,11 @@ app.notion.com##.notion-ai-button.x1ypdohk.x1b7c0jy.x87ps6o
 ! 3 Oct 2026 https://Outlook.live.com
 outlook.live.com###owaBuyMicrosoft365Btn_container
 
+! 8 Oct 2026 https://mail.aol.com
+mail.aol.com##.bg-sidebar-background.overscroll-y-contain.overflow-y-auto.flex-col.flex-1.min-h-0.flex
+mail.aol.com##button[data-test-id="right-rail-hidead-btn"]
+mail.aol.com##a.gap-inline-sm.items-center.flex.hover\:text-settings-navigation-back-link.text-text-quaternary.px-inset-md.border-settings-popover-footer-border.border-t.shrink-0.h-component-compact-footer-row:nth-of-type(1)
+mail.aol.com##.pt-grid-1
+mail.aol.com##.pr-\[32px\].gap-inset-xxl.items-center.shrink-0.flex.ml-auto > .no-underline.text-inherit.rounded-sm.group.items-center.flex
+mail.aol.com##.no-underline.text-inherit.rounded-sm.group.py-\[1px\].px-\[6px\].gap-inline-xxs.items-center.flex
+
