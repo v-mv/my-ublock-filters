@@ -124,17 +124,6 @@ mail.google.com##.lRwCV
 ! Header - Ask Gemini icon
 mail.google.com##.Zmxtcf
 
-! 30 Aug 2026 https://chatgpt.com
-chatgpt.com##.cursor-pointer.\[\&_\*\]\:cursor-pointer.touch-pan-y.group\/tpp-toggle.select-none.p-0.rounded-full.h-9.relative.bg-token-bg-primary > .h-full.relative
-chatgpt.com##button.button-glimmer-cta
-chatgpt.com##.self-stretch.gap-0\.5.items-center.flex
-chatgpt.com##.text-token-text-tertiary.truncate.gap-1.items-center.inline-flex.text-caption-regular > span
-chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
-chatgpt.com##.max-w-full.w-fit.mx-auto.pointer-events-auto.text-token-text-tertiary.text-caption-regular > div
-chatgpt.com##div.last-of-type\:border-none.py-2.border-b.items-center.min-h-15.flex.border-token-border-light:nth-of-type(2)
-chatgpt.com##.tracking-\[-0\.08px\]\!.font-\[590\]\!.leading-\[18px\]\!.text-\[13px\]\!.px-3\!.h-7\!.dark\:active\:bg-blue-100\/20.dark\:hover\:bg-blue-100\/20.dark\:text-blue-200.dark\:bg-blue-100\/20.active\:bg-blue-400\/\[\.09\].hover\:bg-blue-400\/\[\.09\].text-blue-400.bg-blue-400\/\[\.09\].border-transparent.disabled\:opacity-50.disabled\:cursor-not-allowed.font-medium.text-sm.px-4.rounded-full.gap-1.justify-center.items-center.h-8.inline-flex
-chatgpt.com##button[aria-label="Claim offer"]
-
 ! 30 Aug 2026 https://claude.ai
 claude.ai##.pointer-events-none.justify-center.items-center.h-12.w-full.flex
 claude.ai##.mr-0\.5.ml-auto.font-small.rounded-3xl.py-px.px-1\.5.text-accent.border-border-400.border-0\.5
@@ -217,3 +206,9 @@ mail.aol.com##.pt-grid-1
 mail.aol.com##.pr-\[32px\].gap-inset-xxl.items-center.shrink-0.flex.ml-auto > .no-underline.text-inherit.rounded-sm.group.items-center.flex
 mail.aol.com##.no-underline.text-inherit.rounded-sm.group.py-\[1px\].px-\[6px\].gap-inline-xxs.items-center.flex
 
+! 12 Oct 2026 https://chatgpt.com
+chatgpt.com##.px-2.mb-3\.5.mt-1.col-span-full
+chatgpt.com##.flex-col.flex-1.min-w-0.flex > .gap-1.items-center.min-w-0.flex
+chatgpt.com##.root-HUUPVC.browser\:w-56.select-none.rounded-full.gap-0.grid-cols-2.min-w-0.max-w-full.h-9.inline-grid.isolate.relative
+chatgpt.com##div.no-drag.items-center.shrink-0.flex.pointer-events-auto > .select-none.gap-1.items-center.flex
+chatgpt.com##.pb-2.px-toolbar.min-h-6.select-none.text-codex-description.text-pretty.text-xs.text-center
