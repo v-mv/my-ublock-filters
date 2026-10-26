@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 12/10/2026
+Last Update - 26/10/2026
 
 Strictly made for Personal Use
 
@@ -10,8 +10,10 @@ github.com##ul.list-style-none > .d-flex.mb-2
 github.com##.mt-3.text-small > [href="/sponsors"]
 github.com##div.BorderGrid-row:nth-of-type(3)
 
-! 14 Nov 2025 https://gemini.google.com
+! 26 Oct 2026 https://gemini.google.com
 gemini.google.com##.capabilities-disclaimer
+gemini.google.com##gem-button[fonticonname="download"]
+gemini.google.com##suggestion-block
 
 ! Feb 18, 2026 https://www.csirnetphysics.in
 www.csirnetphysics.in##.popup-overlay
@@ -138,15 +140,11 @@ mail.proton.me##.topnav-listItem--noCollapse.topnav-listItem
 mail.proton.me##.empty\:hidden.gap-2.justify-center.flex
 mail.proton.me##button.button-promotion
 
-! 30 Aug 2026 https://manus.im
-manus.im##.whitespace-nowrap.py-1.px-4.bg-\[var\(--fill-tsp-white-light\)\].rounded-full.gap-1\.5.justify-center.items-center.h-9.inline-flex.-translate-y-full.-translate-x-1\/2.left-1\/2.-top-\[50px\].absolute
-manus.im##.text-\[var\(--text-tertiary\)\].text-xs.text-center.w-full.mt-2
-manus.im##.px-\[8px\].hover\:bg-\[rgba\(0\,129\,242\,0\.12\)\].bg-\[rgba\(0\,129\,242\,0\.08\)\].min-w-\[32px\].gap-\[6px\].h-\[32px\].rounded-\[10px\].leading-\[18px\].text-\[13px\].hover\:opacity-100.text-\[var\(--text-primary\)\].active\:opacity-80.transition-colors.font-medium.whitespace-nowrap.justify-center.items-center.inline-flex
-manus.im##.px-\[6px\].min-w-0.hover\:bg-\[rgba\(0\,129\,242\,0\.12\)\].bg-\[rgba\(0\,129\,242\,0\.08\)\].gap-\[6px\].h-\[32px\].rounded-\[10px\].leading-\[18px\].text-\[13px\].hover\:opacity-100.text-\[var\(--text-primary\)\].active\:opacity-80.transition-colors.font-medium.whitespace-nowrap.justify-center.items-center.inline-flex
-manus.im##.pe-2.ps-3.py-2.gap-2.justify-between.items-center.w-full.flex
-manus.im##.justify-center.items-center.flex-1.min-h-\[160px\].flex
-manus.im##.whitespace-nowrap.py-1.px-3.bg-transparent.border-\[var\(--border-main\)\].border.rounded-\[8px\].overflow-hidden.gap-1\.5.justify-center.items-center.max-w-\[min\(360px\,35vw\)\].min-w-0.h-8.inline-flex.relative.desktop-no-drag
-manus.im##div:nth-of-type(1) > .rounded-\[8px\].size-\[28px\].hover\:bg-\[var\(--fill-tsp-white-light\)\].cursor-pointer.justify-center.items-center.flex
+! 26 Oct 2026 https://manus.im
+manus.im##div.min-h-\[160px\]
+manus.im##div.desktop-no-drag:has-text("Free plan"):has-text("Upgrade")
+manus.im##button:has-text(/^Upgrade$/):has(svg)
+manus.im##p.mt-2.text-xs.text-center[class*="text-[var(--text-tertiary)]"]
 
 ! 30 Aug 2026 https://drive.proton.me
 drive.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
