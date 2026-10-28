@@ -217,3 +217,4 @@ mail.yahoo.com##div:has(> a[data-ylk*="sec:yb_home-mail"])
 mail.yahoo.com##a[href^="https://mail.yahoo.com/plus/mail"]
 mail.yahoo.com##button:has-text(/^Give feedback$/)
 mail.yahoo.com##li[role="menuitem"]:has-text(/^Yahoo Mail Plus$/):style(display: none !important; margin: 0 !important; padding: 0 !important; height: 0 !important; min-height: 0 !important;)
+
