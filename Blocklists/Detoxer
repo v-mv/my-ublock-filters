@@ -215,6 +215,5 @@ chatgpt.com##.pb-2.px-toolbar.min-h-6.select-none.text-codex-description.text-pr
 mail.yahoo.com##.K_6D6F.crqN_2vDXFj.ek_BB.D_F.c21q2RT_3o4BO.a_6D6F.W_3vqYW
 mail.yahoo.com##div:has(> a[data-ylk*="sec:yb_home-mail"])
 mail.yahoo.com##a[href^="https://mail.yahoo.com/plus/mail"]
-mail.yahoo.com##button:has-text(/^Give feedback$/)
-mail.yahoo.com##li[role="menuitem"]:has-text(/^Yahoo Mail Plus$/):style(display: none !important; margin: 0 !important; padding: 0 !important; height: 0 !important; min-height: 0 !important;)
-
+mail.yahoo.com##.I_ZprBTp.lz38_ZaEH55.lx38_jhDhM.ly38_1f1FRF.lt38_C.h38_a3DRd.lt36_C.h36_Z1ihKFs.O36_1grVag.lx36_jhDhM.ly36_2msHci.C4_1GbO8e.lz34_ZaEH55.lx34_ZPrgjW.ly34_2msHci.lt34_C.h34_1DdG6g.O34_Z20hJ4G.q34_wzKXL.H34_6D6F.W34_6D6F.L34_0.T34_0.e34_Z1pAdC9.p34_a.dq34_hP.y_Z1AwNpy.p_R.q0_Z25M4so.b0_Z2utlOw.cZ28mhtd_Z16tquE.cZ28mhts_Z16tquE.q4_WEuPY.b4_dm5.C_sfJow.b_dm5.q_ZiTj5d.P_1DQFzi.H_72FG.cZIxwby_dRA.j0_1mc63A.cZ8J0d4_Z16tquE.cZ28mhtk_Z16tquE.lv4_2k4xdS.j4_n.k_w.gl_C.ab_C.D_X.i_3ngpV.u_e69.fd_N.A_6EGz.e_Z1pAdC9.r_P
+mail.yahoo.com###overflow-menu-more-menu-item-list-item-2 > .C4_Z2d7yvo.I4_ZfSL2q.r_P.e_0.H_72FG.A_6EGz.P_1Pr7Rd.C_1GbO8e.ab_C.D_F
