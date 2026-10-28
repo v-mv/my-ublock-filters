@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 26/10/2026
+Last Update - 28/10/2026
 
 Strictly made for Personal Use
 
@@ -210,3 +210,10 @@ chatgpt.com##.flex-col.flex-1.min-w-0.flex > .gap-1.items-center.min-w-0.flex
 chatgpt.com##.root-HUUPVC.browser\:w-56.select-none.rounded-full.gap-0.grid-cols-2.min-w-0.max-w-full.h-9.inline-grid.isolate.relative
 chatgpt.com##div.no-drag.items-center.shrink-0.flex.pointer-events-auto > .select-none.gap-1.items-center.flex
 chatgpt.com##.pb-2.px-toolbar.min-h-6.select-none.text-codex-description.text-pretty.text-xs.text-center
+
+! 28 Oct 2026 https://mail.yahoo.com
+mail.yahoo.com##.K_6D6F.crqN_2vDXFj.ek_BB.D_F.c21q2RT_3o4BO.a_6D6F.W_3vqYW
+mail.yahoo.com##div:has(> a[data-ylk*="sec:yb_home-mail"])
+mail.yahoo.com##a[href^="https://mail.yahoo.com/plus/mail"]
+mail.yahoo.com##button:has-text(/^Give feedback$/)
+mail.yahoo.com##li[role="menuitem"]:has-text(/^Yahoo Mail Plus$/):style(display: none !important; margin: 0 !important; padding: 0 !important; height: 0 !important; min-height: 0 !important;)
