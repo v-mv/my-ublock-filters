@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 28/10/2026
+Last Update - 04/11/2026
 
 Strictly made for Personal Use
 
@@ -108,6 +108,7 @@ youtube.com##.ytp-ce-element
 youtube.com##.ytp-fullscreen-grid-stills-container
 youtube.com##yt-related-chip-cloud-renderer
 youtube.com##ytd-button-renderer:has(button[aria-label="Join this channel"])
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope
 
 ! 8 May 2026 https://workdrive.zoho.in
 workdrive.zoho.in##.zwd-marginless.zwd-circular.zwd-borderless.zwd-fluid.zwd-basic.zwd-small.zwd-medium.zwd-blue.zwd-button.zwd-ui
