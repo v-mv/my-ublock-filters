@@ -1,7 +1,7 @@
 ! Title: Detoxer-2026 Filter List
 
 Creation Date - 25/04/2025
-Last Update - 05/11/2026
+Last Update - 06/11/2026
 
 Strictly made for Personal Use
 
@@ -183,19 +183,15 @@ x.com##[aria-label="Home timeline"]>div:first-child [role="tablist"]>div:first-c
 
 ! 1 Sept 2026 https://www.remnote.com
 remnote.com##[data-test="Menu Label: Upgrade to Pro With Free Months"]
-! 1 Sept 2026 https://www.busuu.com
-busuu.com##button.sc-gsDKAQ:has-text(80% off Premium)
-busuu.com##[data-testid="test-collapsed-banner"]
-busuu.com##[data-testid="test-full-banner-body"]
-
-! 1 Sept 2026 https://www.duolingo.com
-duolingo.com##._16rRh._2cnFr._1T_BQ
 
 ! 2 Oct 2026 https://app.notion.com
 app.notion.com##.notion-ai-button.x1ypdohk.x1b7c0jy.x87ps6o
 
 ! 3 Oct 2026 https://Outlook.live.com
 outlook.live.com###owaBuyMicrosoft365Btn_container
+outlook.live.com,outlook.office.com,outlook.office365.com##div:has(> button[aria-label="Rewards"])
+||rewards.bing.com^
+||bing.com^
 
 ! 8 Oct 2026 https://mail.aol.com
 mail.aol.com##.bg-sidebar-background.overscroll-y-contain.overflow-y-auto.flex-col.flex-1.min-h-0.flex
